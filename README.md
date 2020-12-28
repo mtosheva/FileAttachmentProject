@@ -11,5 +11,5 @@ Run 'update-database --verbose'
 ### App
 Run the application(It should run on port 44396)
 
-##Author
+## Author
 Mirjana Tosheva
